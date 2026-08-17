@@ -9,6 +9,26 @@ An interactive Power BI report that explores how social-media usage relates to s
 | `Students_Addiction_PowerBi.pbix` | Power BI dashboard and semantic model. |
 | `Students Social Media Addiction.xlsx` | Source dataset containing student and platform details. |
 
+## Project Structure
+
+```text
+Students-Social-Media-Addiction-PowerBI/
+│
+├── .gitignore
+├── ER_DIAGRAM.md
+├── README.md
+├── Students Social Media Addiction.xlsx
+└── Students_Addiction_PowerBi.pbix
+```
+
+| Item | Purpose |
+|---|---|
+| `.gitignore` | Defines files excluded from version control. |
+| `ER_DIAGRAM.md` | GitHub-rendered entity-relationship diagram and model relationship notes. |
+| `README.md` | Project documentation, dashboard overview, insights, and usage guidance. |
+| `Students Social Media Addiction.xlsx` | Raw source data used by the report. |
+| `Students_Addiction_PowerBi.pbix` | Interactive Power BI dashboard. |
+
 ## Dashboard Pages
 
 - **Executive Overview** — headline metrics and a high-level view of addiction, usage, gender, age, and academic level.
